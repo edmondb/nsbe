@@ -4,6 +4,8 @@ Python training for:
 
 ![FIRENSBE JR](firensbe_jr.png)
 
+Check the [Agenda](http://github.com/edmondb/nsbe/wiki/Agenda) for the schedule and updates!
+
 # Setup Instructions
 
 1. [Download](http://www.continuum.io/downloads) and install Anaconda for Windows 64-Bit (Python 2.7)
