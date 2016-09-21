@@ -1,5 +1,7 @@
 # FIRENSBE JR
 
+![FIRENSBE JR](firensbe_jr.png)
+
 Python training for Future Innovative Rising Engineers National Society of Black Engineers Jr Chapter.
 
 # Setup Instructions
